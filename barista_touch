@@ -1,0 +1,11 @@
+Coffee Machines in E6B
+
+cappuccino
+
+beans = peruvian_office_coffee
+size = double
+grind_size = 6
+grind_time = 14
+milk = up_whole
+milk_level = under_bottom_hash
+froth_temp = 65
