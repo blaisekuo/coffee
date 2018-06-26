@@ -1,0 +1,20 @@
+Coffee Machines in E6B
+
+cappuccino
+
+beans = seven_seeds
+size = double
+grinder = hario_mini
+grind_size = 7
+grind_quant = 13
+milk = up_whole
+milk_level = under_bottom_hash
+froth_temp = 65
+
+size = single
+grinder = hario_mini
+grind_size = 7
+grind_quant = 9
+milk = up_whole
+milk_level = under_bottom_hash
+froth_temp = 65
