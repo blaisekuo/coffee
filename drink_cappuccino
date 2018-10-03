@@ -1,7 +1,4 @@
-Coffee Machines in E6B
-
-cappuccino
-
+drink_name = cappuccino
 beans = peruvian_office_coffee
 size = double
 grind_size = 6
