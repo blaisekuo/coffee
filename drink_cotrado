@@ -1,4 +1,6 @@
 drink_name = cortado
+
+bean_type = mcc_huehuetenango_guatemala
 size = single
 grinder = hario
 grind_size = 9
