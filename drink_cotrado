@@ -1,0 +1,9 @@
+drink_name = cortado
+size = single
+grinder = hario
+grind_size = 9
+grind_time_s = 0
+milk = up_whole
+milk_level_mL = 40
+barista_touch_extract_s = 23
+froth_temp_c = 45
