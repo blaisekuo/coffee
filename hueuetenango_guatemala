@@ -1,7 +1,6 @@
 Coffee Machines in E6B
 
-cortado
-
+drink_name = cortado
 beans = melbourne_chocolate_coffee_supplies_huehuetenango_guatemala
 size = single
 grinder = hario
