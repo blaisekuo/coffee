@@ -1,0 +1,11 @@
+Coffee Machines in E6B
+
+cortado
+
+beans = melbourne_chocolate_coffee_supplies_huehuetenango_guatemala
+size = single
+grind_size = 9
+grind_time = hario
+milk = up_whole
+milk_level = 40 mL
+froth_temp = 45
